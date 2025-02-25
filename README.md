@@ -16,4 +16,5 @@ Set-ExecutionPolicy Unrestricted
 .\Generate-Samples.ps1 -InputDirectory C:\Path\To\Your\Input -OutputDirectory C:\Path\To\Your\Output
 ```
 -InputDirectory: Thư mục file PE.
+
 -OutputDirectory: Thư mục lưu kết quả.
